@@ -1,4 +1,4 @@
-<h1 align = "center"> A Platform-IO port of LilyGO T-Deck https://github.com/Xinyuan-LilyGO/T-Deck PlatformIO configuration + ESP32Berry Project https://github.com/0015/ESP32Berry </h1>
+<h1 align = "center"> A Platform-IO port of LilyGO T-Deck https://github.com/Xinyuan-LilyGO/T-Deck PlatformIO configuration <br/> + ESP32Berry Project https://github.com/0015/ESP32Berry </h1>
 
 
 <h1 align = "center">✨ LilyGO T-Deck  ✨</h1>
