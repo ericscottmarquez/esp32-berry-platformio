@@ -1,0 +1,7 @@
+.pio
+.vscode
+build
+script
+lib
+lib/lv_conf.h
+
