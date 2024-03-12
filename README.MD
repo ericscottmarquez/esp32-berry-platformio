@@ -3,10 +3,6 @@
 
 <h1 align = "center">✨ LilyGO T-Deck  ✨</h1>
 
-## **English 
-
-
-
 ## 1️⃣ Examples preview
 
 ````
