@@ -6,7 +6,7 @@
 - Original ESP32Berry Project: https://github.com/0015/ESP32Berry
 
 
-## 2️⃣ Quick Start
+## Quick Start
 
 ### PlatformIO
 
@@ -21,12 +21,12 @@
 9. Click (plug symbol) to monitor serial output
 
 
-## 4️⃣ Where to buy:
+## Where to buy:
 
 1. [AliExpress](https://www.aliexpress.com/item/1005005692235592.html)
 2. [LilyGo Store](https://www.lilygo.cc/products/t-deck)
 
 
-## 5️⃣ Pins:
+## Pins:
 
 See [utilities.h](./examples//UnitTest//utilities.h)
