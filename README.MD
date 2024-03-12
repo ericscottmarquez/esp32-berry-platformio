@@ -2,7 +2,7 @@
 
 
 <h1 align = "center">✨ LilyGO T-Deck  ✨</h1>
-
+https://github.com/0015/ESP32Berry/raw/main/misc/images/esp32berry_0.5.jpg
 ## 1️⃣ Examples preview
 
 ````
