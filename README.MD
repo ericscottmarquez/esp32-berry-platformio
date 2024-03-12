@@ -3,7 +3,7 @@
 
 <h1 align = "center">✨ LilyGO T-Deck  ✨</h1>
 
-## **English | [中文](README_CN.MD)**
+## **English 
 
 
 
